@@ -1,0 +1,19 @@
+╭══════════════╮
+  Git e GitHub
+╰══════════════╯
+
+########
+CONCEITO - Git é um sistema que permite organizar e controlar as diferentes versões de um
+########   código. Ele foi criado por Linus Torvalds.
+
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git
+
+	Comandos básicos:
+		
+		- ls -> Lista os diretórios e arquivos existentes na pasta atual.
+		- ls -a -> Lista os diretórios e arquivos existentes na pasta atual, 
+			   incluindo os diretórios e arquivos ocultos.
+		- mkdir -> Cria um diretório na pasta atual.
+		- rmdir -> Remove um diretório na pasta atual.
+		
