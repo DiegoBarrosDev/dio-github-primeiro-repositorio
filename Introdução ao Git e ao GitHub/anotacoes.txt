@@ -17,3 +17,9 @@ O Git Bash é um terminal extendido para otimizar o uso do Git
 		- mkdir -> Cria um diretório na pasta atual.
 		- rmdir -> Remove um diretório na pasta atual.
 		
+	Comandos de configuração
+		- git config
+		- git config --list -> lista as configurações do repositório
+		- git config --global
+		- git config --global user.name Name
+		- git config -- global user.email email@email.com
