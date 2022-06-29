@@ -1,0 +1,21 @@
+FlexBox
+
+Propriedades da tag-pai:
+	Display: flex;
+
+Propriedades da tag-filha(flex-itens):
+	Flex-grow -> Define a proporcionalidade de crescimento dos itens,
+		     respeitando o tamanho dos conteudos internos.
+		     Por padrão o flex-grow é 0.
+	Flex-basis -> É a propriedade que estabelece o tamanho inicial do 
+		      item antes das distribuições de espaço restante 
+		      dentro dele, usando como base o conteúdo interno 
+		      disposto.
+	Flex-shrink -> É a propriedade que estabelece a capacidade de 
+		       redução ou compressão do tamanho de um item.
+	Flex -> É um atalho ou abreviação de escrita para as propriedades
+		grow, shrink e basis
+	Order -> É a propriedade que ordena o item ao qual ela é aplicada.
+		 Por padrão os itens possuem order = 1
+	Align-self -> Alinha verticalmente os itens que estão em um 
+		      flex-container.
