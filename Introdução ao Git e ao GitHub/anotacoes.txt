@@ -23,3 +23,13 @@ O Git Bash é um terminal extendido para otimizar o uso do Git
 		- git config --global
 		- git config --global user.name Name
 		- git config -- global user.email email@email.com
+
+	Comando para mudar de branch:
+		- git checkout -b main -> O comando checkout é para mudar de branch e o -b 
+					  é para criar o branch caso ele não exista ainda
+	Comandos para associar o projeto local ao repositório no Github
+		- git remote add (origin) https://url... -> Associa o repositório local
+							    ao repositório do GitHub com
+							    o apelido de origin.
+		- git pull origin main -> baixa o projeto da branch main que está no 
+					  repositório do GitHub. 
