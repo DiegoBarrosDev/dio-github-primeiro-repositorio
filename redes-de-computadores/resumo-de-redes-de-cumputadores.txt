@@ -1,0 +1,57 @@
+REDES DE COMPUTDORES
+
+Introdução
+
+As redes de computadores são estruturas físicas, compostas pelos equipamentos(hardware) e 
+lógicas, programas, protocolos (software) que permitem que dois ou mais computadores 
+possam compartilhar dados entre si, fazendo uso de um sistema de computação.
+
+Um sistema de computação é um arranjo topológico que interconecta vários módulos 
+processadores através de um meio de transmissão (roteadores, servidores, etc..) e de um 
+conjunto de regras(protocolos) para organizar essa comunicação.
+
+Esse arranjo topológico descreve o leiaute da rede, na qual os dados são transmitidos, bem 
+como os equipamentos que estão conectados a ela, e se utiliza de protocolos, convenções, ou
+padrões que controlam e possibilitam a comunicação entre os computadores.
+
+
+Classificação
+
+Classificação quanto a extensão:
+
+Redes Locais ou LANs (Local Area Network) - É uma rede particular interna de uma 
+instituição que abrange uma pequena área geográfica.
+ 
+Redes Metropolitanas ou MANs (Metropolitan Area Network)- É uma rede semelhante a uma LAN,
+mas com uma extensão de um campus ou uma cidade, ela é formada da conexão de várias LANs
+vinculadas a uma instituição.
+
+Redes de longa Distância ou WANs (Wide Area Network) -É a rede externa a uma instituição, 
+abrangendo uma grande área geográfica.
+
+Classificação quanto ao tipo de ligação
+
+Redes ponto-a-ponto - É a rede que conecta diretamente dois hosts (computadores), um em 
+cada extremidade do enlace, e quando duas estações(hosts) que não esteja diretamente 
+conectadas desejam se comunicar, elas os fazem de modo indireto, por intermédio das demais.
+Exs. de redes ponto-a-ponto:
+- estrela
+- anel
+- malhar regular
+- malha irregular
+- árvore
+
+Redes Multiponto ou de difusão - É a rede cujos os dados são compartilhados por todas as 
+estações através de um único meio. O dado é enviado por uma das estações a todos os 
+demais hosts com o endereço da máquina de destino para que esta possa identificar e 
+reconhecer que o dado foi enviado para ela.
+
+Exs. de redes multiponto:
+- barramento com controle central
+- barramento descentralizado
+- satélite
+- anel
+
+
+
+
